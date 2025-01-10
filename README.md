@@ -1,2 +1,2 @@
 # PostgreSQL
-About This repository contains PostgreSQL examples
+This repository contains PostgreSQL examples
